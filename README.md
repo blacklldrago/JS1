@@ -39,4 +39,4 @@
  - Logical : ( || , && , ! )
  - Type Conversions : Number( "3, 14" )
  - Assignment : ( = , += , -= , *= , /= , ^= , %= , ) 
-![alt text](./Photo/Operators.png)
+![alt text](./Operators.png)
